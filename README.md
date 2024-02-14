@@ -17,11 +17,14 @@ HTML, CSS, Bootstrap<br>
 Python<br>
 Flask<br>
 Transitioning from hospitality to tech<br>
+<br>
 📫 How to reach me:<br>
 Email: jason.erasmus@live.co.za<br>
 LinkedIn: https://www.linkedin.com/in/jason-erasmus-275b15a4/<br>
 
 
-📊 GitHub Stats:<br>[Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason-erasmus&theme=vue-dark&show_icons=true)
+📊 GitHub Stats:<br>![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason-erasmus&theme=vue-dark&show_icons=true)
+
+
 
 
